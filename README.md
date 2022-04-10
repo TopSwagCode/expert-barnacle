@@ -1,1 +1,35 @@
-# expert-barnacle
+# my-beta-app
+
+TODO:
+
+* Auth
+* Backend API
+* Cors
+* API Client local and prod
+* JWT
+* Find out what apps should do! :D 
+* router
+
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
